@@ -1,0 +1,15 @@
+langchain-chroma==1.1.0
+langchain-community==0.4.2
+langchain-core==1.4.9
+langchain-mistralai==1.1.6
+langchain-text-splitters==1.1.2
+langchain-huggingface==1.0.0
+chromadb
+sentence-transformers
+transformers
+torch
+openai-whisper==20250625
+yt-dlp==2026.7.4
+pydub==0.25.1
+streamlit==1.59.1
+python-dotenv==1.2.2
